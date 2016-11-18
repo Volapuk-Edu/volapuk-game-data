@@ -27,7 +27,7 @@
 	}, {
 		"question": "Les voitures ont été mouillé par l’averse de cette nuit",
 		"option1": "Il n'y a pas d'accord puisque l'auxiliaire est AVOIR.",
-		"option2": "Il devrait y avoir accord puisque l'auxilière est ETRE.",
+		"option2": "Il doit y avoir accord puisque l'auxilière est ETRE.",
 		"response": "option2"
 	}, {
 		"question": "cette commode, il l’a trouvée chez un brocanteur.",
@@ -98,76 +98,76 @@
 		"question": "Mes deux grandes soeurs se sont accordé deux mois de vacances.",
 		"option1": "Doit être accordé avec le sujet, qui est féminin pluriel.",
 		"option2": "SE n'est pas COD mais COI, donc pas d'accord.",
+		"response": "option2"
+	}, {
+		"question": "Jean et Luc se sont racontés des histoires toute la soirée.",
+		"option1": "SE n'est pas COD mais COI, donc pas d'accord.",
+		"option2": "On fait l'accord avec le sujet qui est masculi pluriel.",
 		"response": "option1"
 	}, {
-		"question": " Jean et Luc se sont raconté des histoires toute la soirée.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
-	}, {
-		"question": "Elles se sont parlé pendant deux heures de leurs anciens petits amis.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"question": "Elles se sont parlées pendant des heures de leurs anciens petits amis.",
+		"option1": "Il doit y avoir accord puisque l'auxilière est ETRE.",
+		"option2": "Ne devrait pas y avoir car SE est un COI.",
+		"response": "option2"
 	}, {
 		"question": "Les nouvelles se sont succédé à un rythme fou.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"option1": "Doit s'accorder avec SE qui est un COD.",
+		"option2": "Les nouvelles ont succédé quoi ? Aucune réponse. Donc invariable.",
+		"response": "option2"
 	}, {
 		"question": "Elle s’est enfuie de chez elle sans dire un mot à personne.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"option1": "Le participe passé est invariable puisque SE n'est ni COD, ni COI.",
+		"option2": "Le participe passé doit s'accorder avec le sujet puisque SE n'est ni COD, ni COI.",
+		"response": "option2"
 	}, {
 		"question": "Elle s’est souvenue de leur rencontre sous la pluie.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "Le participe passé doit s'accorder avec le sujet puisque SE n'est ni COD, ni COI.",
+		"option2": "Le participe passé est invariable puisque SE n'est ni COD, ni COI.",
 		"response": "option1"
 	}, {
 		"question": "La veste qu’il a voulu acheter était trop grande pour lui.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "QU’ est COD de ACHETER et non de A VOULU donc on n’accorde pas.",
+		"option2": "QU’ est COD de A VOULU et non de ACHETER donc s'accorde.",
 		"response": "option1"
 	}, {
 		"question": "J’ai téléphoné à Adèle et je l’ai remerciée d’avoir pensé à nous.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"option1": "Doit s'accorder avec le sujet qui est masculin singulier.",
+		"option2": "L' est COD donc on accorde le participe passé.",
+		"response": "option2"
 	}, {
-		"question": "Je connais les forestiers qu’elle a vus abattre des arbres.",
-		"option1": * ,
-		"option2": * ,
+		"question": "Je connais les forestiers qu’elle a vu abattre des arbres.",
+		"option1": "On accorde le participe passé vus avec son COD forestiers.",
+		"option2": "On accorde donc le participe passé vu avec son sujet ELLE.",
 		"response": "option1"
 	}, {
 		"question": "Il ne reste rien des arbres qu’elle a vu abattre l’été dernier.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "On accorde donc le participe passé vu avec son sujet ELLE.",
+		"option2": "Les arbres abattaient?. Le participe passé ne s’accorde pas.",
+		"response": "option2"
+	}, {
+		"question": "Il n’a pas encore reçu les cartes qu’il a fait acheter par le directeur de l’agence de voyage.",
+		"option1": "le participe passé de FAIRE suivi d’un infinitif est invariable.",
+		"option2": "Ne s'accorde pas parce que le sujet est masculin singulier.",
 		"response": "option1"
 	}, {
-		"question": "Il n’a pas encore reçu les cartes du monde qu’il a fait acheter par le directeur de l’agence de voyage",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
-	}, {
-		"question": "Elle aurait souhaité dormir tôt cette nuit, tellement elle est fatiguée",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"question": "Elle aurait souhaité dormir tôt cette nuit, tellement elle est fatiguée.",
+		"option1": "Doit s'accorder avec le sujet ELLE qui est féminin singulier.",
+		"option2": "c’est l’infinitif lui-même qui est COD. Il est à droite, donc pas d’accord.",
+		"response": "option2"
 	}, {
 		"question": "Elles se sont vues instruire leurs enfants.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "Elles instruisaient (leurs enfants). On accorde le participe passé avec son COD Elles.",
+		"option2": "Le COD (leurs enfants) est placé à droite. Donc pas d'accord avec SE mais avec le sujet. ",
 		"response": "option1"
 	}, {
 		"question": "Elles se sont vu instruire par leurs maitres.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "On accorde le participe passé avec son COD (leurs maitres).",
+		"option2": "Leurs maitres les instruisaient. Le participe passé ne s’accorde pas.",
 		"response": "option1"
 	}, {
 		"question": "Les enfants, nous les avons fait dessiner toute la journée.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"option1": "Ne s'accorde pas parce que l'auxiliaire est AVOIR.",
+		"option2": "le participe passé de FAIRE suivi d’un infinitif est invariable.",
+		"response": "option2"
 	}]
 }
