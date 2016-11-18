@@ -31,73 +31,73 @@
 		"response": "option2"
 	}, {
 		"question": "cette commode, il l’a trouvée chez un brocanteur.",
-		"option1": "",
-		"option2": * ,
+		"option1": "S'accorde avec le COD qui est placé devant.",
+		"option2": "Ne devrait pas s'accorder car l'auxilière est ETRE",
 		"response": "option1"
 	}, {
-		"question": "La course s’est passée comme on l’avait prévu.",
-		"option1": * ,
-		"option2": * ,
+		"question": "La course s’est passée comme on l’avait prévue.",
+		"option1": "Prévu doit s'accorder avec L' placé devant.",
+		"option2": "L' fair référence à une proposition donc pas d'accord.",
 		"response": "option1"
 	}, {
-		"question": "Voici les fruits que lui a donnés la mère de Véronique.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"question": "Voici les fruits que lui a donné la mère de Véronique.",
+		"option1": "On ne fait pas l'accord quand l'auxiliaire est AVOIR.",
+		"option2": "On fait L'accord avec le COD placé devant.",
+		"response": "option2"
 	}, {
 		"question": "L'enseignante nous a observés toute la journée.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "On fait L'accord avec le COD placé devant.",
+		"option2": "On ne fait pas l'accord car il n'y a pas de COD.",
 		"response": "option1"
 	}, {
-		"question": "Des hommes, elle en a rencontré vraiment beaucoup au café du quartier.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
-	}, {
-		"question": "Des femmes, Anthony en a salué toute la journée",
-		"option1": * ,
-		"option2": * ,
+		"question": "Des femmes, Anthony en a salué toute la journée.",
+		"option1": "Pas d'accord puisque le COD est le pronom EN.",
+		"option2": "Devrait s'accorder avec FEMMES qui est COD",
 		"response": "option1"
 	}, {
 		"question": "Il faut comparer cette dépense aux cinq millions d’Ariary qu’a coûté la réparation du bâtiment.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"option1": "Devrait s'accorder avec QUE qui remplace dépense.",
+		"option2": "On ne fait pas l'accord quand le Participe Passé est un verbe de mesure.",
+		"response": "option2"
 	}, {
 		"question": "Le musicien explique dans le film toutes les difficultés que lui a coûtées la composition de ce morceau.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "On ne fait pas l'accord quand le Participe Passé est un verbe de mesure.",
+		"option2": "On fait l'accord avec QUE qui est un COD.",
+		"response": "option2"
+	}, {
+		"question": "Des hommes, elle en a rencontrés vraiment beaucoup au café du quartier.",
+		"option1": "Pas d'accord puisque le COD est le pronom EN.",
+		"option2": "Devrait s'accorder avec HOMMES qui est COD.",
 		"response": "option1"
 	}, {
-		"question": "La mère Véronique lui a donné des fruits pas très mûrs",
-		"option1": * ,
-		"option2": * ,
+		"question": "La mère de Véronique lui a donné des fruits pas très mûrs.",
+		"option1": "La mère de Véronique a donné quoi ? LE COD est placé après.",
+		"option2": "Doit s'accorder avec LUI qui est placé devant le Participe Passé.",
 		"response": "option1"
 	}, {
 		"question": "Adèle nous a parlé toute la journée de ses rêves et de ses ambitions.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
+		"option1": "Doit s'accorder avec NOUS qui est un pronom placé devant.",
+		"option2": "Le COD est absent, donc invariable.",
+		"response": "option2"
 	}, {
-		"question": "Elle s’est toujours soignée avec des plantes médicinales",
-		"option1": * ,
-		"option2": * ,
+		"question": "Elle s’est toujours soigné avec des plantes médicinales",
+		"option1": "Doit y avoir accord. S' est COD, car on peut dire : soigner quelqu’un.",
+		"option2": "S' est une forme pronominale, donc aucune accord.",
 		"response": "option1"
 	}, {
 		"question": "Elles se sont amusées sous la pluie toute la journée.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "Pas d'accord car il s'agit d'une forme pronominale.",
+		"option2": "Elles ont amusé qui ? Réponse : SE. Et SE est placé avant le verbe.",
+		"response": "option2"
+	}, {
+		"question": "Voici les histoires que se sont racontés Jean et Luc hier.",
+		"option1": "Doit s'accorder avec SE qui remplace les histoires",
+		"option2": "Les sujets sont Luc et Jean, donc masculin pluriel.",
 		"response": "option1"
-	}, , {
-		"question": "Voici les histoires que se sont racontées Jean et Luc hier.",
-		"option1": * ,
-		"option2": * ,
-		"response": "option1"
-	}, , {
+	}, {
 		"question": "Mes deux grandes soeurs se sont accordé deux mois de vacances.",
-		"option1": * ,
-		"option2": * ,
+		"option1": "Doit être accordé avec le sujet, qui est féminin pluriel.",
+		"option2": "SE n'est pas COD mais COI, donc pas d'accord.",
 		"response": "option1"
 	}, {
 		"question": " Jean et Luc se sont raconté des histoires toute la soirée.",
