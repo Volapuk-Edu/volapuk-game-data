@@ -1,0 +1,173 @@
+{
+	"question": [{
+		"question": "Elle est revenu à Anosibe. Elle était parti depuis deux jours.",
+		"option1": "Le sujet du verbe est ELLE, donc accord.",
+		"option2": "invariable car on utilise l'auxiliaire ETRE.",
+		"response": "option1"
+	}, {
+		"question": "Nous espérons pouvoir être revenus à la fin de la journée.",
+		"option1": "Cette phrase est fausse, puisqu'il n'y pas de sujet à REVENUS",
+		"option2": "Cette phrase est juste, puiqsque l'accord se fait avec NOUS.",
+		"response": "option2"
+	}, {
+		"question": "Il est arrivé deux personnes hier.",
+		"option1": "Cette phrase n'a pas de sens du tout.",
+		"option2": "L'accord du paticipe passé se fait avec IL.",
+		"response": "option2"
+	}, {
+		"question": "Les papiers que j’ai longtemps cherchés et qui ont été miraculeusement retrouvé sous mon lit étaient très importants.",
+		"option1": "il y a une faute sur retrouvé qui devrait s'accorder avec QUI",
+		"option2": "il y a une faute sur cherchés qui devrait s'accordé avec JE",
+		"response": "option1"
+	}, {
+		"question": "À cause de la pluie, toutes les voitures sont mouillée dans la rue.",
+		"option1": "C'est normale, la PLUIE est féminin",
+		"option2": "C'est faux, il a plusieurs voitures",
+		"response": "option2"
+	}, {
+		"question": "Les voitures ont été mouillé par l’averse de cette nuit",
+		"option1": "Il n'y a pas d'accord puisque l'auxiliaire est AVOIR.",
+		"option2": "Il devrait y avoir accord puisque l'auxilière est ETRE.",
+		"response": "option2"
+	}, {
+		"question": "cette commode, il l’a trouvée chez un brocanteur.",
+		"option1": "",
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "La course s’est passée comme on l’avait prévu.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Voici les fruits que lui a donnés la mère de Véronique.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "L'enseignante nous a observés toute la journée.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Des hommes, elle en a rencontré vraiment beaucoup au café du quartier.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Des femmes, Anthony en a salué toute la journée",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Il faut comparer cette dépense aux cinq millions d’Ariary qu’a coûté la réparation du bâtiment.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Le musicien explique dans le film toutes les difficultés que lui a coûtées la composition de ce morceau.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "La mère Véronique lui a donné des fruits pas très mûrs",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Adèle nous a parlé toute la journée de ses rêves et de ses ambitions.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elle s’est toujours soignée avec des plantes médicinales",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elles se sont amusées sous la pluie toute la journée.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, , {
+		"question": "Voici les histoires que se sont racontées Jean et Luc hier.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, , {
+		"question": "Mes deux grandes soeurs se sont accordé deux mois de vacances.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": " Jean et Luc se sont raconté des histoires toute la soirée.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elles se sont parlé pendant deux heures de leurs anciens petits amis.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Les nouvelles se sont succédé à un rythme fou.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elle s’est enfuie de chez elle sans dire un mot à personne.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elle s’est souvenue de leur rencontre sous la pluie.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "La veste qu’il a voulu acheter était trop grande pour lui.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "J’ai téléphoné à Adèle et je l’ai remerciée d’avoir pensé à nous.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Je connais les forestiers qu’elle a vus abattre des arbres.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Il ne reste rien des arbres qu’elle a vu abattre l’été dernier.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Il n’a pas encore reçu les cartes du monde qu’il a fait acheter par le directeur de l’agence de voyage",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elle aurait souhaité dormir tôt cette nuit, tellement elle est fatiguée",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elles se sont vues instruire leurs enfants.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Elles se sont vu instruire par leurs maitres.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}, {
+		"question": "Les enfants, nous les avons fait dessiner toute la journée.",
+		"option1": * ,
+		"option2": * ,
+		"response": "option1"
+	}]
+}
